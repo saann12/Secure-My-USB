@@ -238,7 +238,7 @@ MIT License - see LICENSE file for details.
 
 ## Author
 
-This is a solo academic project for cryptography coursework.
+This is a solo cryptographic security tool developed for educational and practical use.
 
 ## Acknowledgments
 
