@@ -1,6 +1,7 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Type](https://img.shields.io/badge/type-CLI--only-orange)
+![Python CI](https://github.com/saann12/Secure-My-USB/actions/workflows/python-ci.yml/badge.svg)
 
 # Secure My USB
 
