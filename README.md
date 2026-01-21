@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Type](https://img.shields.io/badge/type-CLI--only-orange)
+
 # Secure My USB
 
 A comprehensive **CLI-only** cryptographic tool for securing files on USB drives and folders. It provides password-based encryption, hybrid encryption with public key cryptography, and digital signatures for file integrity verification. No GUI is required; all operations run via `python secure_usb.py ...`.
