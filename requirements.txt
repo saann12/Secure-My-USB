@@ -1,0 +1,8 @@
+# Secure My USB - Runtime Dependencies
+#
+# Minimal dependencies required to run the CLI tool.
+# For testing, additional dependencies may be required (e.g., pytest).
+#
+# Python 3.10+ is required.
+
+cryptography>=41.0.0,<48.0.0
