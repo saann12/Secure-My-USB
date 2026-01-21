@@ -23,3 +23,8 @@ test_usb/
 
 # Logs
 *.log
+
+.usb_secure_meta.json
+usb_secure_meta.json
+*.usb_secure_meta.json
+
